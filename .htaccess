@@ -1,2 +1,2 @@
 RewriteEngine on
-RewriteRule ^pushes/service/(.*)$ service.php?params=$1 [L]
+RewriteRule ^service/(.*)$ service.php?params=$1 [L]
